@@ -1,19 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title: Inventory List Project
-// Course: CS 300 Spring 2021
-//
-// Author: Quentin Holle
-// Email: qholle@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: NONE
-// Online Sources: NONE
-//
-///////////////////////////////////////////////////////////////////////////////
-
 import java.util.NoSuchElementException;
 
 /**
